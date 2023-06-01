@@ -18,7 +18,7 @@
   - 树 Tree
     - 二叉搜索树 Binary Search Tree
     - 红黑树 Red-Black Tree.
-    - B+树 B+ Tree.
+    - B树 B Tree.
     - van Emde Boas Trees
   - 堆 Heap
     - 堆排序 Heap sort.
